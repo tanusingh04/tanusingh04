@@ -11,9 +11,9 @@
 
 ## About Me
 
-I am a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning.  
-I focus on building intelligent, scalable, and real-world impactful applications using modern full-stack and AI technologies.  
-I am passionate about solving real-life problems through data-driven and user-centric solutions.
+- I am a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning.  
+- I focus on building intelligent, scalable, and real-world impactful applications using modern full-stack and AI technologies.  
+- I am passionate about solving real-life problems through data-driven and user-centric solutions.
 
 ---
 
@@ -72,10 +72,6 @@ Tech Used: React, Node.js, Django, MongoDB, Tailwind CSS
 <a href="mailto:tnusng7905@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
-<a href="https://github.com/tanusingh04">
-  <img src="https://skillicons.dev/icons?i=github" height="40"/>
-</a>
-
 </div>
 
 ---
