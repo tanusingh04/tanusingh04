@@ -11,9 +11,9 @@
 
 ## About Me
 
-- I am a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning.  
-- I focus on building intelligent, scalable, and real-world impactful applications using modern full-stack and AI technologies.  
-- I am passionate about solving real-life problems through data-driven and user-centric solutions.
+- Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning.  
+- Focused on building intelligent, scalable, and real-world impactful applications using modern full-stack and AI technologies.  
+- Passionate about solving real-life problems through data-driven and user-centric solutions.
 
 ---
 
@@ -29,17 +29,31 @@
 
 ## Projects
 
-### Community Engagement & Safety Platform
-A smart digital platform for enhancing safety and communication in hostels through real-time issue reporting and noise monitoring.
+### Fresh Hub Mart
+A full-stack e-commerce platform for managing and purchasing fresh grocery items with a user-friendly interface and secure backend.
 
-Tech Used: HTML, CSS, JavaScript, Flask, SQLite
+**Tech Used:** React, Node.js, MongoDB, Express, Tailwind CSS
+
+---
+
+### TimeForge
+A smart timetable generation web application that creates optimized schedules based on user preferences and constraints.
+
+**Tech Used:** React, TypeScript, Tailwind CSS, Vite
+
+---
+
+### Community Engagement & Safety Platform
+A smart digital platform to enhance safety and communication in hostels through real-time issue reporting and noise monitoring.
+
+**Tech Used:** HTML, CSS, JavaScript, Flask, SQLite
 
 ---
 
 ### SafeWalk – Fall Detection System
 An intelligent fall detection system that monitors individuals and instantly sends alerts to caregivers using real-time detection.
 
-Tech Used: React, Node.js, Django, MongoDB, Tailwind CSS
+**Tech Used:** React, Node.js, Django, MongoDB, Tailwind CSS
 
 ---
 
@@ -52,11 +66,13 @@ Tech Used: React, Node.js, Django, MongoDB, Tailwind CSS
 
 ---
 
-## GitHub Activity
+## LeetCode Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanusingh04&theme=react-dark&hide_border=true" />
+<a href="https://leetcode.com/u/tanu0405/">
+  <img src="https://leetcard.jacoblin.cool/tanu0405?theme=dark&font=Baloo&ext=heatmap" />
+</a>
 
 </div>
 
@@ -72,6 +88,7 @@ Tech Used: React, Node.js, Django, MongoDB, Tailwind CSS
 <a href="mailto:tnusng7905@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
+
 </div>
 
 ---
@@ -80,4 +97,5 @@ Tech Used: React, Node.js, Django, MongoDB, Tailwind CSS
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 
+</div>
 </div>
